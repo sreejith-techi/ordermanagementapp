@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## compile sass
 sass --watch src/:src/ --no-source-map
+
+## Extract Main Src File After Download it
+src.zip
